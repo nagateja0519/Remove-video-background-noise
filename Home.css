@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+}
+
+#link {
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+#submit {
+    background-color: lightgreen;
+    width: 90px;
+    color: black;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+}
